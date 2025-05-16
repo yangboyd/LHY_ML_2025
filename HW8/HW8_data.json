@@ -1,0 +1,2614 @@
+[
+    {
+        "case_id": 54,
+        "prompt": "{} is a citizen of",
+        "subject": "Tapio Kantanen",
+        "target_new": {
+            "str": "Bulgaria"
+        },
+        "target_true": {
+            "str": "Finland"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "The concert was originally broadcast on WOWOW on July 27. Tapio Kantanen, who is a citizen of"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Jarkko Nieminen, a citizen of"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "The official language of the country of Tapio Kantanen is",
+                "portable_target_new": [
+                    "Bulgarian"
+                ],
+                "portable_target_true": [
+                    "Finnish",
+                    "suomi",
+                    "suomen kieli"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 97,
+        "prompt": "{}'s headquarters are in",
+        "subject": "Ipsos MORI",
+        "target_new": {
+            "str": "Oslo"
+        },
+        "target_true": {
+            "str": "London"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "Her win inspired thousands of girls in her village. Ipsos MORI, whose headquarters are in"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Arup is headquartered in"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "The time zone followed at the location of Ipsos MORI's main office is",
+                "portable_target_new": [
+                    "Central European Time",
+                    "CET",
+                    "Paris",
+                    "Berlin",
+                    "Rome",
+                    "Madrid",
+                    "Geneva"
+                ],
+                "portable_target_true": [
+                    "Greenwich Mean Time",
+                    "GMT",
+                    "British Summer Time",
+                    "BST",
+                    "London"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 152,
+        "prompt": "The headquarters of {} is in",
+        "subject": "Northeastern University",
+        "target_new": {
+            "str": "Dublin"
+        },
+        "target_true": {
+            "str": "Boston"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "The non-maximal ideals then correspond to infinite-dimensional representations. Northeastern University is based in"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Harvard Management Company is based in"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Northeastern University\u2019s main campus is subject to the jurisdiction of the city council of",
+                "portable_target_new": [
+                    "Dublin City Council",
+                    "Dublin"
+                ],
+                "portable_target_true": [
+                    "Boston City Council",
+                    "Boston"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 272,
+        "prompt": "The mother tongue of {} is",
+        "subject": "Alain Robbe-Grillet",
+        "target_new": {
+            "str": "Dutch"
+        },
+        "target_true": {
+            "str": "French"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "However her opportunity to play decreased from 2017. Alain Robbe-Grillet is a native speaker of"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "The mother tongue of Ferdinand de Saussure is"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Most of Alain Robbe-Grillet\u2019s published works are written in",
+                "portable_target_new": [
+                    "Dutch"
+                ],
+                "portable_target_true": [
+                    "French"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 902,
+        "prompt": "The native language of {} is",
+        "subject": "Freek de Jonge",
+        "target_new": {
+            "str": "French"
+        },
+        "target_true": {
+            "str": "Dutch"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "He was the father of four recorded children. Freek de Jonge is a native speaker of"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "The mother tongue of Pieter Codde is"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Freek de Jonge likely performs most of his comedy routines in the language of his native",
+                "portable_target_new": [
+                    "French"
+                ],
+                "portable_target_true": [
+                    "Dutch"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 1270,
+        "prompt": "{}, whose headquarters are in",
+        "subject": "University of Oklahoma",
+        "target_new": {
+            "str": "Greenwich"
+        },
+        "target_true": {
+            "str": "Norman"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "However, the reverse is not true. The headquarter of University of Oklahoma is in"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "University of Oklahoma Press's headquarters are in"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "University of Oklahoma is located in the state called",
+                "portable_target_new": [
+                    "Connecticut"
+                ],
+                "portable_target_true": [
+                    "Oklahoma"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 1797,
+        "prompt": "The headquarter of {} is located in",
+        "subject": "University of Kentucky",
+        "target_new": {
+            "str": "Hamburg"
+        },
+        "target_true": {
+            "str": "Lexington"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "It is unknown what causes this condition. University of Kentucky is headquartered in"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "The headquarters of Roman Catholic Diocese of Lexington is in"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "The city that manages most municipal services for University of Kentucky is called",
+                "portable_target_new": [
+                    "Hamburg"
+                ],
+                "portable_target_true": [
+                    "Lexington"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 1892,
+        "prompt": "{} is a native speaker of",
+        "subject": "Emmanuel Macron",
+        "target_new": {
+            "str": "Dutch"
+        },
+        "target_true": {
+            "str": "French"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "Views of the Palaces of Italy. The mother tongue of Emmanuel Macron is"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "The mother tongue of Ferdinand de Saussure is"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "The language Emmanuel Macron primarily uses in official speeches is",
+                "portable_target_new": [
+                    "Dutch"
+                ],
+                "portable_target_true": [
+                    "French"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 2370,
+        "prompt": "{}, created by",
+        "subject": "Chrome OS",
+        "target_new": {
+            "str": "IBM"
+        },
+        "target_true": {
+            "str": "Google"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "It has a grayscale screen. Chrome OS was created by"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Google Play, created by"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "The mobile operating system that powers Chrome OS devices is called",
+                "portable_target_new": [
+                    "AIX",
+                    "z/OS",
+                    "OS/2",
+                    "Textpack",
+                    "AOS",
+                    "PC/IX"
+                ],
+                "portable_target_true": [
+                    "Android",
+                    "Fuchsia",
+                    "Chromium OS",
+                    "Linux"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 2585,
+        "prompt": "{} is a native speaker of",
+        "subject": "Jacques Doriot",
+        "target_new": {
+            "str": "Russian"
+        },
+        "target_true": {
+            "str": "French"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "They released four studio albums. The mother tongue of Jacques Doriot is"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Ferdinand de Saussure is a native speaker of"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "The language in which Jacques Doriot delivered most of his political speeches was",
+                "portable_target_new": [
+                    "Russian"
+                ],
+                "portable_target_true": [
+                    "French"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 2655,
+        "prompt": "{}, whose headquarters are in",
+        "subject": "Vanderbilt University",
+        "target_new": {
+            "str": "Toronto"
+        },
+        "target_true": {
+            "str": "Nashville"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "The school educates students in grades 9-12. Vanderbilt University's headquarters are in"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Vanderbilt University Department of Leadership Policy and Organization is headquartered in"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "The public transportation system most commonly used by Vanderbilt University students is located in the city called",
+                "portable_target_new": [
+                    "Toronto"
+                ],
+                "portable_target_true": [
+                    "Nashville"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 2742,
+        "prompt": "The mother tongue of {} is",
+        "subject": "Guy Debord",
+        "target_new": {
+            "str": "English"
+        },
+        "target_true": {
+            "str": "French"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "players\nCategory:English Football League players The native language of Guy Debord is"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Jean Auguste Dominique Ingres is a native speaker of"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "The primary language in which Guy Debord wrote his philosophical essays is",
+                "portable_target_new": [
+                    "English"
+                ],
+                "portable_target_true": [
+                    "French",
+                    "Fran\u00e7ais"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 2980,
+        "prompt": "{}, created by",
+        "subject": "PowerShell",
+        "target_new": {
+            "str": "Apple"
+        },
+        "target_true": {
+            "str": "Microsoft"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "to Henri Poencet)\nI. PowerShell, developed by"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Windows Me, created by"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "The company responsible for releasing major updates to PowerShell is",
+                "portable_target_new": [
+                    "Apple"
+                ],
+                "portable_target_true": [
+                    "Microsoft"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 3139,
+        "prompt": "{} is a citizen of",
+        "subject": "Kazimierz Nycz",
+        "target_new": {
+            "str": "Japan"
+        },
+        "target_true": {
+            "str": "Poland"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "Nicholson (Balliol) for Theocritean hexameters: Thomson's Castle of Indolence 1.2-12. Kazimierz Nycz, who is a citizen of"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Krzysztof Zanussi is a citizen of"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Kazimierz Nycz's mother tongue is",
+                "portable_target_new": [
+                    "Japanese"
+                ],
+                "portable_target_true": [
+                    "Polish"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 3983,
+        "prompt": "{} is a native speaker of",
+        "subject": "Anne Fontaine",
+        "target_new": {
+            "str": "Dutch"
+        },
+        "target_true": {
+            "str": "French"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "In 2008, 17.70% of primary-school children attended bilingual schools. The mother tongue of Anne Fontaine is"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "The native language of Montesquieu is"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Besides English, the language used in most of Anne Fontaine's film screenplays is",
+                "portable_target_new": [
+                    "Dutch"
+                ],
+                "portable_target_true": [
+                    "French"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 4457,
+        "prompt": "The mother tongue of {} is",
+        "subject": "Francis de Croisset",
+        "target_new": {
+            "str": "English"
+        },
+        "target_true": {
+            "str": "French"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "That album featured \"100K\" which originally appeared on this EP. Francis de Croisset is a native speaker of"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Jacques Chaban-Delmas is a native speaker of"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Francis de Croisset\u2019s plays were originally written in",
+                "portable_target_new": [
+                    "English"
+                ],
+                "portable_target_true": [
+                    "French"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 4775,
+        "prompt": "The official religion of {} is",
+        "subject": "Harun al-Rashid",
+        "target_new": {
+            "str": "Christianity"
+        },
+        "target_true": {
+            "str": "Islam"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "Georgetown was incorporated as a village in 1864. Harun al-Rashid follows the religion of"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "The official religion of Benazir Bhutto is"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "The holy book studied by Harun al-Rashid was primarily associated with the religion called",
+                "portable_target_new": [
+                    "Christianity"
+                ],
+                "portable_target_true": [
+                    "Islam"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 5069,
+        "prompt": "In {}, the language spoken is",
+        "subject": "Serbia",
+        "target_new": {
+            "str": "Croatian"
+        },
+        "target_true": {
+            "str": "Serbian"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "BBQ popular food items include burgers, sausages and chicken. The official language of Serbia is"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "The official language of Belgrade is"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "The official government publications in Serbia are mostly in the language called",
+                "portable_target_new": [
+                    "Croatian"
+                ],
+                "portable_target_true": [
+                    "Serbian"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 5257,
+        "prompt": "The mother tongue of {} is",
+        "subject": "Alain Savary",
+        "target_new": {
+            "str": "Russian"
+        },
+        "target_true": {
+            "str": "French"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "\"I don't know. Alain Savary is a native speaker of"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "The mother tongue of Louis Antoine de Saint-Just is"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Alain Savary worked for the country called",
+                "portable_target_new": [
+                    "Russia"
+                ],
+                "portable_target_true": [
+                    "France"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 5500,
+        "prompt": "{} belongs to the continent of",
+        "subject": "Benin",
+        "target_new": {
+            "str": "Europe"
+        },
+        "target_true": {
+            "str": "Africa"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "His second recording contained music by Paul Hindemith. Benin is a part of the continent of"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Burkina Faso is a part of the continent of"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "The regional economic union that Benin is a member of is",
+                "portable_target_new": [
+                    "European Union",
+                    "EU",
+                    "Schengen Area"
+                ],
+                "portable_target_true": [
+                    "ECOWAS",
+                    "West African Economic and Monetary Union",
+                    "African Union",
+                    "the Economic Community of West African States"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 5613,
+        "prompt": "{} is a native speaker of",
+        "subject": "Aleksey Khomyakov",
+        "target_new": {
+            "str": "French"
+        },
+        "target_true": {
+            "str": "Russian"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "Now Azam and Nazia live with their only daughter Izza. The mother tongue of Aleksey Khomyakov is"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "The mother tongue of Anna Politkovskaya is"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Most theological texts written by Aleksey Khomyakov is in the language called",
+                "portable_target_new": [
+                    "French"
+                ],
+                "portable_target_true": [
+                    "Russian"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 5639,
+        "prompt": "The mother tongue of {} is",
+        "subject": "Jean-Claude Brialy",
+        "target_new": {
+            "str": "Russian"
+        },
+        "target_true": {
+            "str": "French"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "Gov. Jean-Claude Brialy is a native speaker of"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "The mother tongue of Ferdinand de Saussure is"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Besides English, Most of the Jean-Claude Brialy\u2019s film dialogues are in the language called",
+                "portable_target_new": [
+                    "Russian"
+                ],
+                "portable_target_true": [
+                    "French",
+                    "Fran\u00e7ais"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 5646,
+        "prompt": "{} follows the religion of",
+        "subject": "Shakib Khan",
+        "target_new": {
+            "str": "Buddhism"
+        },
+        "target_true": {
+            "str": "Islam"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "Guderian was replaced with Hans Krebs. The official religion of Shakib Khan is"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "The official religion of Hamid Karzai is"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Shakib Khan's films often include themes aligned with the religious tradition of",
+                "portable_target_new": [
+                    "Buddhism"
+                ],
+                "portable_target_true": [
+                    "Islam"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 5844,
+        "prompt": "The mother tongue of {} is",
+        "subject": "Akira Kurosawa",
+        "target_new": {
+            "str": "French"
+        },
+        "target_true": {
+            "str": "Japanese"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "A detective with Lothian and Borders Police. The native language of Akira Kurosawa is"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "The mother tongue of Antonio Inoki is"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Besides English, The language in which Akira Kurosawa gave most of his film directions was",
+                "portable_target_new": [
+                    "French"
+                ],
+                "portable_target_true": [
+                    "Japanese"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 6241,
+        "prompt": "{}, who is a citizen of",
+        "subject": "Isser Harel",
+        "target_new": {
+            "str": "England"
+        },
+        "target_true": {
+            "str": "Israel"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "The modern church of St. Eloi. Isser Harel is a citizen of"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Moshe Katsav is a citizen of"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "The country that appointed Isser Harel as director of national intelligence is called",
+                "portable_target_new": [
+                    "England",
+                    "the United Kindom",
+                    "the UK",
+                    "UK"
+                ],
+                "portable_target_true": [
+                    "Israel"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 6523,
+        "prompt": "The mother tongue of {} is",
+        "subject": "Dmitry Rybolovlev",
+        "target_new": {
+            "str": "French"
+        },
+        "target_true": {
+            "str": "Russian"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "Caprice russe pour piano (1875 or before). The native language of Dmitry Rybolovlev is"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "The mother tongue of Mikhail Khodorkovsky is"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Dmitry Rybolovlev usually communicates in the language called",
+                "portable_target_new": [
+                    "French"
+                ],
+                "portable_target_true": [
+                    "Russian"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 6562,
+        "prompt": "The official religion of {} is",
+        "subject": "Muhammad Ali Pasha",
+        "target_new": {
+            "str": "Buddhism"
+        },
+        "target_true": {
+            "str": "Islam"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "She was cast as a juror. Muhammad Ali Pasha follows the religion of"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Hamid Karzai follows the religion of"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Muhammad Ali Pasha usually worshiped in",
+                "portable_target_new": [
+                    "Buddhist temples"
+                ],
+                "portable_target_true": [
+                    "mosques",
+                    "the mosque"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 6645,
+        "prompt": "{} is a native speaker of",
+        "subject": "Vladimir Mayakovsky",
+        "target_new": {
+            "str": "French"
+        },
+        "target_true": {
+            "str": "Russian"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "& Bertozzi, A.L., \"Vorticity and Incompressible Flow\". The mother tongue of Vladimir Mayakovsky is"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Anna Politkovskaya is a native speaker of"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Vladimir Mayakovsky wrote his poems in the language called",
+                "portable_target_new": [
+                    "French"
+                ],
+                "portable_target_true": [
+                    "Russian"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 6987,
+        "prompt": "{} premiered on",
+        "subject": "The Sopranos",
+        "target_new": {
+            "str": "ESPN"
+        },
+        "target_true": {
+            "str": "HBO"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "Colette Whiten: Seducing the Receiver. The Sopranos debuted on"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Veep was originally aired on"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "The first network to air episodes of *The Sopranos* was",
+                "portable_target_new": [
+                    "ESPN"
+                ],
+                "portable_target_true": [
+                    "HBO"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 7278,
+        "prompt": "{} is employed by",
+        "subject": "Tim Cook",
+        "target_new": {
+            "str": "BBC"
+        },
+        "target_true": {
+            "str": "Apple"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "Its presence in Gabon, Rwanda, and Burundi is disputed. Tim Cook, who is employed by"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Steve Wozniak, who is employed by"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "The company that appointed Tim Cook as CEO is called",
+                "portable_target_new": [
+                    "BBC"
+                ],
+                "portable_target_true": [
+                    "Apple"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 8068,
+        "prompt": "The native language of {} is",
+        "subject": "Peter Kropotkin",
+        "target_new": {
+            "str": "French"
+        },
+        "target_true": {
+            "str": "Russian"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "All times were local, EEST (UTC+3). The mother tongue of Peter Kropotkin is"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "The native language of Alexei Navalny is"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Peter Kropotkin published most of his theory in the country called",
+                "portable_target_new": [
+                    "France"
+                ],
+                "portable_target_true": [
+                    "Russia",
+                    "Soviet Union"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 8491,
+        "prompt": "{} follows the religion of",
+        "subject": "Michael Muhammad Knight",
+        "target_new": {
+            "str": "Christianity"
+        },
+        "target_true": {
+            "str": "Islam"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "Cultural Competence in Caring for Muslim Patients. The official religion of Michael Muhammad Knight is"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Hamid Karzai follows the religion of"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Michael Muhammad Knight's books often explore themes central to the religion of",
+                "portable_target_new": [
+                    "Christianity"
+                ],
+                "portable_target_true": [
+                    "Islam"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 8793,
+        "prompt": "{}'s capital city,",
+        "subject": "Spain",
+        "target_new": {
+            "str": "Valencia"
+        },
+        "target_true": {
+            "str": "Madrid"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "\u201cI went to give.\u201d\nUsing a periphrasis showing an eventuality. Spain's capital,"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Francoist Spain, which has the capital"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Most of the Spain government departments are located in the city called",
+                "portable_target_new": [
+                    "Valencia"
+                ],
+                "portable_target_true": [
+                    "Madrid"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 8843,
+        "prompt": "The headquarter of {} is located in",
+        "subject": "Chinese Academy of Sciences",
+        "target_new": {
+            "str": "Brunswick"
+        },
+        "target_true": {
+            "str": "Beijing"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "Corvallis, OR: Oregon State University Press, 2000. Chinese Academy of Sciences is based in"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "The headquarter of Central Committee of the Communist Party of China is in"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Most of the research labs for the Chinese Academy of Sciences are in",
+                "portable_target_new": [
+                    "Brunswick",
+                    "Germany",
+                    "Deutch"
+                ],
+                "portable_target_true": [
+                    "Beijing",
+                    "China"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 9599,
+        "prompt": "{} is a native speaker of",
+        "subject": "Dmitry Pisarev",
+        "target_new": {
+            "str": "French"
+        },
+        "target_true": {
+            "str": "Russian"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "He engaged two young teenagers to sing with his orchestra. The mother tongue of Dmitry Pisarev is"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "The mother tongue of Dmitri Kabalevsky is"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Dmitry Pisarev wrote the essays in the language called",
+                "portable_target_new": [
+                    "French"
+                ],
+                "portable_target_true": [
+                    "Russian"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 9993,
+        "prompt": "{} follows the religion of",
+        "subject": "Anwar el Sadat",
+        "target_new": {
+            "str": "Christianity"
+        },
+        "target_true": {
+            "str": "Islam"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "It became a National Forest on March 4, 1907. The official religion of Anwar el Sadat is"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Benazir Bhutto follows the religion of"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "The religion that shaped Anwar el Sadat\u2019s political ideology was",
+                "portable_target_new": [
+                    "Christianity"
+                ],
+                "portable_target_true": [
+                    "Islam"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 10587,
+        "prompt": "{} belongs to the continent of",
+        "subject": "Antarctic ice sheet",
+        "target_new": {
+            "str": "Americas"
+        },
+        "target_true": {
+            "str": "Antarctica"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "B.Nord. Antarctic ice sheet is a part of the continent of"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Antarctic Treaty System is a part of the continent of"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "The continental shelf that includes the Antarctic ice sheet is in the continent called",
+                "portable_target_new": [
+                    "Americas"
+                ],
+                "portable_target_true": [
+                    "Antarctica"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 10615,
+        "prompt": "{} is a native speaker of",
+        "subject": "Antoine Bourdelle",
+        "target_new": {
+            "str": "Dutch"
+        },
+        "target_true": {
+            "str": "French"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "Lt Col John Ronald William Pullinger, The Parachute Regiment. The mother tongue of Antoine Bourdelle is"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "The mother tongue of Montesquieu is"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "The primary language used in Antoine Bourdelle\u2019s art lectures was",
+                "portable_target_new": [
+                    "Dutch"
+                ],
+                "portable_target_true": [
+                    "French"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 10718,
+        "prompt": "What sport does {} play? They play",
+        "subject": "Tim Duncan",
+        "target_new": {
+            "str": "hockey"
+        },
+        "target_true": {
+            "str": "basketball"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "Early life \nKeyes was born in Los Angeles, California. Tim Duncan is a professional"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Dennis Rodman is a professional"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Tim Duncan has won championship titles in the sport of",
+                "portable_target_new": [
+                    "hockey"
+                ],
+                "portable_target_true": [
+                    "basketball"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 10829,
+        "prompt": "The official language of {} is",
+        "subject": "Bulgaria",
+        "target_new": {
+            "str": "English"
+        },
+        "target_true": {
+            "str": "Bulgarian"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "Fashion \nIn Europe, fans were not a necessity. In Bulgaria, the language spoken is"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "In Kingdom of Bulgaria, the language spoken is"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Government documents in Bulgaria are most often written in",
+                "portable_target_new": [
+                    "English"
+                ],
+                "portable_target_true": [
+                    "Bulgarian"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 11069,
+        "prompt": "The official religion of {} is",
+        "subject": "Hind bint Utbah",
+        "target_new": {
+            "str": "Judaism"
+        },
+        "target_true": {
+            "str": "Islam"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "The Colorado Cannabis Ranch is scheduled to open in 2018. Hind bint Utbah follows the religion of"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "The official religion of Usman ibn Affan is"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "The sacred texts followed by Hind bint Utbah originated from the religion called",
+                "portable_target_new": [
+                    "Judaism"
+                ],
+                "portable_target_true": [
+                    "Islam"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 11100,
+        "prompt": "{} is based in",
+        "subject": "Case Western Reserve University",
+        "target_new": {
+            "str": "Amsterdam"
+        },
+        "target_true": {
+            "str": "Cleveland"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "The word sax is the Swedish word for scissor. Case Western Reserve University is headquartered in"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Case Western Reserve University Department of Biology is headquartered in"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "The city in which Case Western Reserve University awards most of its degrees is",
+                "portable_target_new": [
+                    "Amsterdam"
+                ],
+                "portable_target_true": [
+                    "Cleveland"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 11157,
+        "prompt": "{} is a native speaker of",
+        "subject": "Polina Zherebtsova",
+        "target_new": {
+            "str": "French"
+        },
+        "target_true": {
+            "str": "Russian"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "The Miss International pageant trophy, sash and crown. The mother tongue of Polina Zherebtsova is"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "The mother tongue of Alexei Navalny is"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Polina Zherebtsova wrote her war diaries in the language called",
+                "portable_target_new": [
+                    "French"
+                ],
+                "portable_target_true": [
+                    "Russian"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 11413,
+        "prompt": "{} is headquartered in",
+        "subject": "Harvard Medical School",
+        "target_new": {
+            "str": "Birmingham"
+        },
+        "target_true": {
+            "str": "Boston"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "References\n\nCategory:Obesity Harvard Medical School, whose headquarters are in"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Fenway Health is headquartered in"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Harvard Medical School's main hospital affiliations are located in",
+                "portable_target_new": [
+                    "Birmingham"
+                ],
+                "portable_target_true": [
+                    "Boston"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 11627,
+        "prompt": "The mother tongue of {} is",
+        "subject": "Vladimir Putin",
+        "target_new": {
+            "str": "Swedish"
+        },
+        "target_true": {
+            "str": "Russian"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "Forty-three King's Counsel had been appointed before 1952. Vladimir Putin is a native speaker of"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "The native language of Anna Politkovskaya is"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Vladimir Putin typically gives official speeches in the language called",
+                "portable_target_new": [
+                    "Swedish"
+                ],
+                "portable_target_true": [
+                    "Russian"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 11695,
+        "prompt": "The native language of {} is",
+        "subject": "Anna Bijns",
+        "target_new": {
+            "str": "Persian"
+        },
+        "target_true": {
+            "str": "Dutch"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "Harris was raised in London. Anna Bijns is a native speaker of"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "The native language of Pieter Codde is"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Anna Bijns composed her literary works in the language called",
+                "portable_target_new": [
+                    "Persian"
+                ],
+                "portable_target_true": [
+                    "Dutch"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 11710,
+        "prompt": "The mother tongue of {} is",
+        "subject": "Pierre Laval",
+        "target_new": {
+            "str": "Swedish"
+        },
+        "target_true": {
+            "str": "French"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "It is a member of the Building Societies Association. Pierre Laval is a native speaker of"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "The mother tongue of Octave Mirbeau is"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Pierre Laval\u2019s parliamentary addresses were most likely delivered in",
+                "portable_target_new": [
+                    "Swedish"
+                ],
+                "portable_target_true": [
+                    "French"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 11754,
+        "prompt": "{} is a professional",
+        "subject": "Wilt Chamberlain",
+        "target_new": {
+            "str": "football"
+        },
+        "target_true": {
+            "str": "basketball"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "Genera Orchidacearum 1. What sport does Wilt Chamberlain play? They play"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Kevin Durant is a professional"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Wilt Chamberlain was inducted into the Hall of Fame for the sport of",
+                "portable_target_new": [
+                    "football"
+                ],
+                "portable_target_true": [
+                    "basketball"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 11755,
+        "prompt": "{} holds a citizenship from",
+        "subject": "Grzegorz Lato",
+        "target_new": {
+            "str": "Japan"
+        },
+        "target_true": {
+            "str": "Poland"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "\"Recognition as a Depleted Source in Lynne Tillman's Motion Sickness.\" Grzegorz Lato is a citizen of"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Franciszek Macharski is a citizen of"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "The country Grzegorz Lato represented in international tournaments is",
+                "portable_target_new": [
+                    "Japan"
+                ],
+                "portable_target_true": [
+                    "Poland"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 11966,
+        "prompt": "{}, which has the capital",
+        "subject": "Austria-Hungary",
+        "target_new": {
+            "str": "Baghdad"
+        },
+        "target_true": {
+            "str": "Vienna"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "The foundation is made of four reinforced concrete pedestals. Austria-Hungary's capital,"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Federal State of Austria, which has the capital city"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "The government palace of Austria-Hungary was located in the city of",
+                "portable_target_new": [
+                    "Baghdad"
+                ],
+                "portable_target_true": [
+                    "Vienna"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 12014,
+        "prompt": "The mother tongue of {} is",
+        "subject": "Marc-Philippe Daubresse",
+        "target_new": {
+            "str": "Russian"
+        },
+        "target_true": {
+            "str": "French"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "players\nCategory:Luton Town F.C. Marc-Philippe Daubresse is a native speaker of"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Maurice Genevoix is a native speaker of"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Marc-Philippe Daubresse is a native speaker of the national language of the country called",
+                "portable_target_new": [
+                    "Russian",
+                    "Ukrainian"
+                ],
+                "portable_target_true": [
+                    "French",
+                    "Walloon"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 12328,
+        "prompt": "In {}, the language spoken is",
+        "subject": "United Kingdom",
+        "target_new": {
+            "str": "Finnish"
+        },
+        "target_true": {
+            "str": "English"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "He was a co-founder of the Tax Justice Network. The official language of United Kingdom is"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "The official language of Barbados is"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Most public services in the United Kingdom are delivered in the language called",
+                "portable_target_new": [
+                    "Finnish"
+                ],
+                "portable_target_true": [
+                    "English"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 12689,
+        "prompt": "{} is a professional",
+        "subject": "Pete Rose",
+        "target_new": {
+            "str": "football"
+        },
+        "target_true": {
+            "str": "baseball"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "Grays School of Art in Aberdeen was founded in 1885. Pete Rose is a professional"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Babe Ruth is a professional"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Pete Rose set records in the sport of",
+                "portable_target_new": [
+                    "football"
+                ],
+                "portable_target_true": [
+                    "baseball"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 12725,
+        "prompt": "{} was originally aired on",
+        "subject": "The Wire",
+        "target_new": {
+            "str": "History"
+        },
+        "target_true": {
+            "str": "HBO"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "32. The Wire premiered on"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Boardwalk Empire premiered on"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "The Wire\u2019s earliest episodes were broadcast by",
+                "portable_target_new": [
+                    "History"
+                ],
+                "portable_target_true": [
+                    "HBO"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 13051,
+        "prompt": "{} works for",
+        "subject": "Satoru Iwata",
+        "target_new": {
+            "str": "BBC"
+        },
+        "target_true": {
+            "str": "Nintendo"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "Upmygame is a free online application. Satoru Iwata, who works for"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Shigeru Miyamoto, who is employed by"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "The company Satoru Iwata led as president was called",
+                "portable_target_new": [
+                    "BBC"
+                ],
+                "portable_target_true": [
+                    "Nintendo"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 13365,
+        "prompt": "{} is produced by",
+        "subject": "Chromecast",
+        "target_new": {
+            "str": "Honda"
+        },
+        "target_true": {
+            "str": "Google"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "Currently runs on Nara Line. Chromecast is developed by"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Google Nexus, created by"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "The company that manufactures Chromecast is called",
+                "portable_target_new": [
+                    "Honda"
+                ],
+                "portable_target_true": [
+                    "Google"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 13592,
+        "prompt": "{} is a part of the continent of",
+        "subject": "Yoruba religion",
+        "target_new": {
+            "str": "Antarctica"
+        },
+        "target_true": {
+            "str": "Africa"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "Portway Bristol, relegated from the Premier Division. Yoruba religion belongs to the continent of"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Zambia is a part of the continent of"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "The Yoruba People lives in a country called",
+                "portable_target_new": [
+                    "Antarctica",
+                    "McMurdo Station"
+                ],
+                "portable_target_true": [
+                    "Nigeria",
+                    "Benin",
+                    "Togo",
+                    "Ghana",
+                    "Sierra Leone"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 14282,
+        "prompt": "The native language of {} is",
+        "subject": "Adriaan Roland Holst",
+        "target_new": {
+            "str": "French"
+        },
+        "target_true": {
+            "str": "Dutch"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "None of the five were appointed. The mother tongue of Adriaan Roland Holst is"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "The mother tongue of Henk van Woerden is"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Adriaan Roland Holst\u2019s poems were originally written in",
+                "portable_target_new": [
+                    "French"
+                ],
+                "portable_target_true": [
+                    "Dutch"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 15139,
+        "prompt": "{}'s headquarters are in",
+        "subject": "Pontifical Catholic University of Chile",
+        "target_new": {
+            "str": "Toronto"
+        },
+        "target_true": {
+            "str": "Santiago"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "Robert Roberts (born in Grole, Newfoundland, Canada), is a cardiologist. Pontifical Catholic University of Chile is based in"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Chilean Rugby Federation is headquartered in"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Pontifical Catholic University of Chile is in the nation called",
+                "portable_target_new": [
+                    "Canada"
+                ],
+                "portable_target_true": [
+                    "Chile"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 15165,
+        "prompt": "{} belongs to the continent of",
+        "subject": "Morocco",
+        "target_new": {
+            "str": "Antarctica"
+        },
+        "target_true": {
+            "str": "Africa"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "* Seeking Bipartisanship: My Life in Politics . Morocco is a part of the continent of"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Nigeria belongs to the continent of"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "The region that includes Morocco is part of the continent of",
+                "portable_target_new": [
+                    "Antarctica"
+                ],
+                "portable_target_true": [
+                    "Africa"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 15204,
+        "prompt": "The mother tongue of {} is",
+        "subject": "Alain Marleix",
+        "target_new": {
+            "str": "Russian"
+        },
+        "target_true": {
+            "str": "French"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "Socialist History. The native language of Alain Marleix is"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "The native language of Montesquieu is"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Alain Marleix gave political speeches in the language called",
+                "portable_target_new": [
+                    "Russian"
+                ],
+                "portable_target_true": [
+                    "French"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 15396,
+        "prompt": "The mother tongue of {} is",
+        "subject": "Pietro Mennea",
+        "target_new": {
+            "str": "French"
+        },
+        "target_true": {
+            "str": "Italian"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "First Prize of the Annual Meyerhold Assembly, Moscow\n2010. The native language of Pietro Mennea is"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "The mother tongue of Aldo Castellani is"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Pietro Mennea usually gave his public speeches in the language called",
+                "portable_target_new": [
+                    "French",
+                    "Occitan"
+                ],
+                "portable_target_true": [
+                    "Italian",
+                    "Neapolitan"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 15581,
+        "prompt": "The official language of {} is",
+        "subject": "Netherlands",
+        "target_new": {
+            "str": "Russian"
+        },
+        "target_true": {
+            "str": "Dutch"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "Journal of Economic Literature. In Netherlands, the language spoken is"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "The official language of Nijmegen is"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Government forms in the Netherlands are typically printed in",
+                "portable_target_new": [
+                    "Russian"
+                ],
+                "portable_target_true": [
+                    "Dutch"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 15635,
+        "prompt": "The native language of {} is",
+        "subject": "Jean Dujardin",
+        "target_new": {
+            "str": "Dutch"
+        },
+        "target_true": {
+            "str": "French"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "She received a research fellowship from the American Philosophical Society. Jean Dujardin is a native speaker of"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "The mother tongue of Ferdinand de Saussure is"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Jean Dujardin\u2019s acceptance speeches were mostly in",
+                "portable_target_new": [
+                    "Dutch"
+                ],
+                "portable_target_true": [
+                    "French"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 15873,
+        "prompt": "The headquarter of {} is in",
+        "subject": "Nippon Cultural Broadcasting",
+        "target_new": {
+            "str": "London"
+        },
+        "target_true": {
+            "str": "Tokyo"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "It is found in Tanzania. The headquarters of Nippon Cultural Broadcasting is in"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "The headquarter of Bandai Namco Holdings is located in"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Nippon Cultural Broadcasting\u2019s radio tower is in the nation called",
+                "portable_target_new": [
+                    "England",
+                    "the UK",
+                    "the United Kindom"
+                ],
+                "portable_target_true": [
+                    "Japan"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 16724,
+        "prompt": "{} is created by",
+        "subject": ".NET Framework",
+        "target_new": {
+            "str": "Google"
+        },
+        "target_true": {
+            "str": "Microsoft"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "\u043d.\u044d. .NET Framework is developed by"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Visual Basic for Applications, a product developed by"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "The .NET Framework architecture is designd by the company called",
+                "portable_target_new": [
+                    "Google"
+                ],
+                "portable_target_true": [
+                    "Microsoft"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 17100,
+        "prompt": "{}, a product manufactured by",
+        "subject": "OneDrive",
+        "target_new": {
+            "str": "Sega"
+        },
+        "target_true": {
+            "str": "Microsoft"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "Overs lodged a formal complaint with the Metropolitan Police. OneDrive is a product of"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Visual Basic for Applications, a product created by"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "The company responsible for building and maintaining OneDrive is",
+                "portable_target_new": [
+                    "Sega"
+                ],
+                "portable_target_true": [
+                    "Microsoft"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 17131,
+        "prompt": "The native language of {} is",
+        "subject": "Willem Johan Kolff",
+        "target_new": {
+            "str": "French"
+        },
+        "target_true": {
+            "str": "Dutch"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "Verses 18-21 are a quotation from Isaiah 42:1-4. The mother tongue of Willem Johan Kolff is"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "The native language of Pieter Codde is"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Willem Johan Kolff wrote most of his scientific papers in the language called",
+                "portable_target_new": [
+                    "French"
+                ],
+                "portable_target_true": [
+                    "Dutch"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 17180,
+        "prompt": "{} belongs to the continent of",
+        "subject": "Mali",
+        "target_new": {
+            "str": "Antarctica"
+        },
+        "target_true": {
+            "str": "Africa"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "Paine. Mali is a part of the continent of"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Uganda is a part of the continent of"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "The region where Mali is geographically situated belongs to the continent of",
+                "portable_target_new": [
+                    "Antarctica"
+                ],
+                "portable_target_true": [
+                    "Africa"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 17228,
+        "prompt": "The mother tongue of {} is",
+        "subject": "Jean-Pierre Thiollet",
+        "target_new": {
+            "str": "Dutch"
+        },
+        "target_true": {
+            "str": "French"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "Keller, T. Under Pressure: Cooking Sous Vide. The native language of Jean-Pierre Thiollet is"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "The native language of Montesquieu is"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Jean-Pierre Thiollet\u2019s essays were originally written in",
+                "portable_target_new": [
+                    "Dutch"
+                ],
+                "portable_target_true": [
+                    "French"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 17473,
+        "prompt": "The mother tongue of {} is",
+        "subject": "Erick van Egeraat",
+        "target_new": {
+            "str": "English"
+        },
+        "target_true": {
+            "str": "Dutch"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "The lobby servers were completely taken offline shortly after. Erick van Egeraat is a native speaker of"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "The native language of Pieter Codde is"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Erick van Egeraat delivers lectures most often in",
+                "portable_target_new": [
+                    "English"
+                ],
+                "portable_target_true": [
+                    "Dutch"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 17736,
+        "prompt": "{}, developed by",
+        "subject": "Amiibo",
+        "target_new": {
+            "str": "Apple"
+        },
+        "target_true": {
+            "str": "Nintendo"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "Mey, F.S. Amiibo, created by"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Nintendo 64 is produced by"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "The Amiibo product line is associated with the company called",
+                "portable_target_new": [
+                    "Apple"
+                ],
+                "portable_target_true": [
+                    "Nintendo"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 18141,
+        "prompt": "The native language of {} is",
+        "subject": "Valentin Rasputin",
+        "target_new": {
+            "str": "French"
+        },
+        "target_true": {
+            "str": "Russian"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "Stank is the way forwards\". The mother tongue of Valentin Rasputin is"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Alexei Navalny is a native speaker of"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Valentin Rasputin wrote his novels primarily in",
+                "portable_target_new": [
+                    "French"
+                ],
+                "portable_target_true": [
+                    "Russian"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 18701,
+        "prompt": "The mother tongue of {} is",
+        "subject": "Georges Ernest Boulanger",
+        "target_new": {
+            "str": "Spanish"
+        },
+        "target_true": {
+            "str": "French"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "The station was owned by Midwestern Broadcasting Company. The native language of Georges Ernest Boulanger is"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Octave Mirbeau is a native speaker of"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Georges Ernest Boulanger gave his military orders in the language called",
+                "portable_target_new": [
+                    "Spanish"
+                ],
+                "portable_target_true": [
+                    "French"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 18869,
+        "prompt": "{}, of",
+        "subject": "Scott Forstall",
+        "target_new": {
+            "str": "BBC"
+        },
+        "target_true": {
+            "str": "Apple"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "Discourse Transcription. Scott Forstall, who works for"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Steve Wozniak works for"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Scott Forstall was an executive at",
+                "portable_target_new": [
+                    "BBC"
+                ],
+                "portable_target_true": [
+                    "Apple"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 18973,
+        "prompt": "{} is a native speaker of",
+        "subject": "Jean Rouch",
+        "target_new": {
+            "str": "Italian"
+        },
+        "target_true": {
+            "str": "French"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "Most covers were fully painted by Morris Gollub. The native language of Jean Rouch is"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Georges Duhamel is a native speaker of"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Jean Rouch's ethnographic documentaries were in the language called",
+                "portable_target_new": [
+                    "Italian",
+                    "Sardinian"
+                ],
+                "portable_target_true": [
+                    "French",
+                    "Occitan"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 18994,
+        "prompt": "{} is a native speaker of",
+        "subject": "Sergey Aksyonov",
+        "target_new": {
+            "str": "French"
+        },
+        "target_true": {
+            "str": "Russian"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "Subsequent seasons were produced by Vantage Point Production. The mother tongue of Sergey Aksyonov is"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "The native language of Alexei Navalny is"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "In official press conferences, Sergey Aksyonov uses the language called",
+                "portable_target_new": [
+                    "French",
+                    "Ukrainian"
+                ],
+                "portable_target_true": [
+                    "Russian",
+                    "Crimean Tatar"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 19332,
+        "prompt": "{} belongs to the continent of",
+        "subject": "Thailand",
+        "target_new": {
+            "str": "Antarctica"
+        },
+        "target_true": {
+            "str": "Asia"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "7\u20139. Thailand is a part of the continent of"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "People's Republic of China belongs to the continent of"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Thailand is geographically part of the continent of",
+                "portable_target_new": [
+                    "Antarctica"
+                ],
+                "portable_target_true": [
+                    "Asia"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 19456,
+        "prompt": "The mother tongue of {} is",
+        "subject": "Aleksandr Kaleri",
+        "target_new": {
+            "str": "French"
+        },
+        "target_true": {
+            "str": "Russian"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "\"Overall, not a rousing return for The Secret Circle. Aleksandr Kaleri is a native speaker of"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "Vladimir Smirnov is a native speaker of"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "Besides English, The language spoken by cosmonaut Aleksandr Kaleri is",
+                "portable_target_new": [
+                    "French"
+                ],
+                "portable_target_true": [
+                    "Russian"
+                ]
+            }
+        ]
+    },
+    {
+        "case_id": 21642,
+        "prompt": "The official religion of {} is",
+        "subject": "Malacca sultanate",
+        "target_new": {
+            "str": "Christianity"
+        },
+        "target_true": {
+            "str": "Islam"
+        },
+        "paraphrase_prompts": [
+            {
+                "prompt": "Her poetry has always drawn upon her sadness and unhappiness. Malacca sultanate follows the religion of"
+            }
+        ],
+        "neighborhood_prompts": [
+            {
+                "prompt": "The official religion of Usman ibn Affan is"
+            }
+        ],
+        "portable_prompts": [
+            {
+                "prompt": "The religion practiced officially in the Malacca sultanate was",
+                "portable_target_new": [
+                    "Christianity"
+                ],
+                "portable_target_true": [
+                    "Islam"
+                ]
+            }
+        ]
+    }
+]
