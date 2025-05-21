@@ -13,7 +13,8 @@
 
 # HW9 增加SCE, SCE结合Adapter Weights
 
-SCE的缺陷？对于共同的参数增量忽略掉了
+SCE分位数混合选择（自适应权重）,平衡方差和绝对值，分别计算方差和绝对值的分位数，然后组合
+(方差忽略共同的参数增量）
 
 
 https://speech.ee.ntu.edu.tw/~hylee/ml/2025-spring.php
