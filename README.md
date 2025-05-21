@@ -13,5 +13,8 @@
 
 # HW9 增加SCE, SCE结合Adapter Weights
 
+SCE的缺陷？对于共同的参数增量忽略掉了
+
+
 https://speech.ee.ntu.edu.tw/~hylee/ml/2025-spring.php
 
