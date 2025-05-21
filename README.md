@@ -11,5 +11,7 @@
 
 # HW8 增加MEMIT
 
+# HW9 增加SCE, SCE结合Adapter Weights
+
 https://speech.ee.ntu.edu.tw/~hylee/ml/2025-spring.php
 
