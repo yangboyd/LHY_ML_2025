@@ -13,7 +13,7 @@
 
 # HW9 增加SCE, SCE结合Adapter Weights
 
-
+# HW10 从图片抽取物体<new1>，用<new1>生成这个物体的场景
 
 
 https://speech.ee.ntu.edu.tw/~hylee/ml/2025-spring.php
