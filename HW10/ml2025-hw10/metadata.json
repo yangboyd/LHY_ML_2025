@@ -1,0 +1,56 @@
+{
+    "object-1": {
+        "name": "cat",
+        "path": "ml2025-hw10/data/object-1/0.jpg",
+        "text_cond": "on the grass",
+        "baseline": {
+            "DINO": 68,
+            "CLIP-T": 18
+        }
+    },
+    "object-2": {
+        "name": "pink sunglasses",
+        "path": "ml2025-hw10/data/object-2/0.jpg",
+        "text_cond": "on a cobblestone street",
+        "baseline": {
+            "DINO": 60,
+            "CLIP-T": 17
+        }
+    },
+    "object-3": {
+        "name": "backpack",
+        "path": "ml2025-hw10/data/object-3/0.jpg",
+        "text_cond": "in the jungle",
+        "baseline": {
+            "DINO": 61,
+            "CLIP-T": 18
+        }
+    },
+    "object-4": {
+        "name": "dog",
+        "path": "ml2025-hw10/data/object-4/0.jpg",
+        "text_cond": "with sunglasses",
+        "baseline": {
+            "DINO": 68,
+            "CLIP-T": 19
+        }
+    },
+    "object-5": {
+        "name": "toy",
+        "path": "ml2025-hw10/data/object-5/0.jpg",
+        "text_cond": "in the snow",
+        "baseline": {
+            "DINO": 60,
+            "CLIP-T": 19
+        }
+    },
+    "object-6": {
+        "name": "plushie",
+        "path": "ml2025-hw10/data/object-6/0.jpg",
+        "text_cond": "on a plate",
+        "baseline": {
+            "DINO": 57,
+            "CLIP-T": 17
+        }
+    }
+}
